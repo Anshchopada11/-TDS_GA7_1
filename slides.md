@@ -29,6 +29,18 @@ Prepared by Technical Consultant
 
 ---
 
+<!-- This slide has a background image -->
+![bg](https://marp.app/assets/hero-background.jpg)
+
+# Q2 Highlights
+
+- Strong YoY revenue growth  
+- Improved operating margin  
+- EPS above guidance range  
+
+---
+
 ## Contact
 
 📧 24f1001822@ds.study.iitm.ac.in
+
